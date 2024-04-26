@@ -5,7 +5,7 @@ var fps = 15;
 
 var money = 7.50;
 var currentCase = "case1";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 100.0;
 
 /*=========================Inventory============================*/
 //In inventory: weap skins
