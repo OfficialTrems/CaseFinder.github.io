@@ -2150,11 +2150,7 @@ var cases = {
   case3: {
     milspec: {
       weap1: {
-        name: "Nova | Tempest FT",
-
-        price: 0.88,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszbdDxR5dizq4KZluH7DLbUkmJE5fp9i_vG8MKhi1KxrRVvMDqnLdScJgM5YF7SrAW2kOvnhJa7upTOyntm6HIgt3_fgVXp1kUZZcr4"
-
+        name: "✯ Bayonet", price: 168.73, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQZ53P3NZXMXvYmykdLSxqWkZ7-HkjMIvpIj3u2Y84733gzh_RU_MG_zIYLEdQ45fxiOrdJh0ExF"
       },
       weap2: {
         name: "Nova | Tempest MW",
