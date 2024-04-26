@@ -2151,9 +2151,9 @@ var cases = {
     milspec: {
       weap1: {
 	name: "✯ Karambit | Night FN",
-	price: 1000000000.00,
+	price: 10000.00,
 	img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_ummJW4NFOhujT8om73Abj_0toMWHxIo6SIA9rM1rUr1K2wOzq05Pp7ZScwHpgsiQls3nVyQv3309jjRKblA"},
-	}
+
     },
 
     restricted: {
