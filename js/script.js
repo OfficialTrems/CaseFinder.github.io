@@ -15794,7 +15794,7 @@ var jackpotAI = {
   bot27: ["DennyB", 8, "https://i.imgur.com/VNE57CT.jpg"],
   bot28: ["Bio", 8, "https://i.imgur.com/acTRiBk.jpg"],
   bot29: ["Tiny", 8, "https://i.imgur.com/2aOas2H.jpg"],
-  bot30: ["King of KFC Jamal", 9, "https://i.imgur.com/XhFlH2S.jpg"]
+  bot30: ["NIGGER IN MY KKK SLUT PUSSY CUM", 9, "https://i.imgur.com/XhFlH2S.jpg"]
 };
 
 var jackpotPots = {
