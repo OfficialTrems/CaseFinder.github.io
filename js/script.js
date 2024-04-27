@@ -610,7 +610,8 @@ var knives = {
     knife557: {name: "✯ StatTrak™ Flip Knife | Urban Masked WW", price: 104.89, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOilZCOqOLmMbrfqWZU7Mxkh9bN9J7yjRrh_hduZT_ydYGccgRqM13Xq1Xolbrt1sC6vp_JzCBh7ygj53vfnR3kn1gSOdeWAw8q"},
     knife558: {name: "✯ StatTrak™ Flip Knife | Urban Masked FT", price: 100.30, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOwm5KIkvPLPr7Vn35c18lwmO7Eu973i1CxqRVqamuiIYfHJlNqNF7R-lC9kOnpgse5tZvJmnVl63Yq4nzD30vghgzkHKc"},
     knife559: {name: "✯ StatTrak™ Flip Knife | Urban Masked MW", price: 110.00, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOilZCOqOLmMbrfqWdY781lteXA54vwxlaw-hBsZ2r6IdPEcgQ6MAuC8le9kL29g5S07sian3Vk73R24SrZykepwUYbeo-ROcg"},
-    knife560: {name: "✯ StatTrak™ Flip Knife | Urban Masked FN", price: 120.00, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOilZCOqOLmMbrfqWdY781lteXA54vwxlaw-hBsZ2r6IdPEcgQ6MAuC8le9kL29g5S07sian3Vk73R24SrZykepwUYbeo-ROcg"}
+    knife560: {name: "✯ StatTrak™ Flip Knife | Urban Masked FN", price: 120.00, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR_OOilZCOqOLmMbrfqWdY781lteXA54vwxlaw-hBsZ2r6IdPEcgQ6MAuC8le9kL29g5S07sian3Vk73R24SrZykepwUYbeo-ROcg"},
+    knife561: {name: "✯ Fuck me™ Cum Knife | Cock And Balls", price: 6900000420.69, img: "https://pbs.twimg.com/media/ES8KpRaWsAAarBG.jpg:large"}
   },
   chroma: {
     knife1: {name: "✯ Bayonet | Damascus Steel BS", price: 143.75, img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJG7dG3h4OehMj8NrrHj1Rd6dd2j6eRot-jjQbt_URpMWj3ctLHewQ9YwnW_lToxbq90JbqtJjOzHNn63Vw-z-DyCn4hYu-"},
@@ -14052,39 +14053,19 @@ var cases = {
  case20: {
 	milspec: {
       weap1: {
-        name: "SG 553 | Aerial BS",
-
-        price: 0.10,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLPUl31I18lwmO7Eu4_3iVWw_0RpMD-hI4OVJwA3MFiB_FW9xufo05Dp75WbnSBruiVxsSzD30vgwE_JNP4"
-
+        name: "✯ Fuck me™ Cum Knife | Cock And Balls", price: 6900000420.69, img: "https://pbs.twimg.com/media/ES8KpRaWsAAarBG.jpg:large"
       },
       weap2: {
-        name: "SG 553 | Aerial WW",
-
-        price: 0.15,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLbUkmJE5fp9i_vG8MKkilHiqhJqZTihLY6dJ1I4N1qF-VTqwOe5h5607p_MwXdiuCZx5S6PgVXp1ntYRZ-P"
-
+       name: "✯ Fuck me™ Cum Knife | Cock And Balls", price: 6900000420.69, img: "https://pbs.twimg.com/media/ES8KpRaWsAAarBG.jpg:large"
       },
       weap3: {
-        name: "SG 553 | Aerial FT",
-
-        price: 0.10,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLbUkmJE5fp9i_vG8MKkilHiqhJqZTihLY6dJ1I4N1qF-VTqwOe5h5607p_MwXdiuCZx5S6PgVXp1ntYRZ-P"
-
+       name: "✯ Fuck me™ Cum Knife | Cock And Balls", price: 6900000420.69, img: "https://pbs.twimg.com/media/ES8KpRaWsAAarBG.jpg:large"
       },
       weap4: {
-        name: "SG 553 | Aerial MW",
-
-        price: 0.15,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLfYkWNF18lwmO7Eu42k2gfs_EdsamyiLYDEewRvMAmDrlHox-q-gcDp6pjNnyNnvyV37X3D30vg15lPbYY"
-
+        name: "✯ Fuck me™ Cum Knife | Cock And Balls", price: 6900000420.69, img: "https://pbs.twimg.com/media/ES8KpRaWsAAarBG.jpg:large"
       },
       weap5: {
-        name: "SG 553 | Aerial FN",
-
-        price: 0.26,
-        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLfYkWNF18lwmO7Eu42k2gfs_EdsamyiLYDEewRvMAmDrlHox-q-gcDp6pjNnyNnvyV37X3D30vg15lPbYY"
-
+        name: "✯ Fuck me™ Cum Knife | Cock And Balls", price: 6900000420.69, img: "https://pbs.twimg.com/media/ES8KpRaWsAAarBG.jpg:large"
       },
       weap6: {
         name: "Tec-9 | Ice Cap BS",
